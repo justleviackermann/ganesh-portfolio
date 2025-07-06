@@ -1,0 +1,14 @@
+.banner
+{
+    background-image: url(/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.avif);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+   font-family: "Lobster", sans-serif;
+}
+.skillspadding
+{
+    padding:70px 0;
+}
